@@ -1,3 +1,5 @@
+streamlit # camera input voice dploy karbe me kaam aata hai 
+
 numpy
 pandas
 scikit-learn
@@ -12,4 +14,6 @@ bcrypt
 segno
 pillow  # image ko preprocessing karta hai 
 
-streamlit # camera input voice dploy karbe me kaam aata hai 
+
+librosa
+resemblyzer
