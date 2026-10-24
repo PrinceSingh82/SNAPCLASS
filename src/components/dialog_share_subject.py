@@ -24,7 +24,7 @@ def share_subject_dialog(subject):
     # JOIN URL
     # =====================================================
 
-    app_domain = "snapclass-main.streamlit.app"
+    app_domain =  "snapclass-prince-singh.streamlit.app"
 
     join_url = f"{app_domain}/?join-code={subject_code}"
 
